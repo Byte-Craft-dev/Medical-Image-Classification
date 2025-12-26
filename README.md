@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: tharushi123navo@gmail.com
 
 ## 🙏 Acknowledgments
-
+Project Developed  by @Securedbytes
 - Dataset providers and medical imaging community
 - TensorFlow, scikit-learn, and OpenCV development teams
 - Research papers and tutorials that inspired this work
